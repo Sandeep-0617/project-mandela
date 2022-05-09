@@ -1,0 +1,15 @@
+
+					Kubernetes
+
+1.kubernetes is open source services...kubernetes is like virtual machine..
+2.kubernetes is created on go programming language and it is google product..
+3.maintained ny CNCF(cloud native and cloud foundation)
+4.main advantage is---> group of container into logical untils
+					^
+					|
+					|
+kubernetes pods used to create mulitple containers------> using the pod it will allows to manage the entire continers
+
+					Main advantages of kubernetes
+1. Self healing----> it automatically start next continer.
+2. Auto scaling---->l
