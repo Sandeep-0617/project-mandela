@@ -13,3 +13,6 @@ kubernetes pods used to create mulitple containers------> using the pod it will 
 					Main advantages of kubernetes
 1. Self healing----> it automatically start next continer.
 2. Auto scaling---->l
+33e3fr
+abirami.K
+thrisha
